@@ -1,0 +1,242 @@
+{
+    "producto1": {
+        "imagen": "imagen",
+        "nombre": "AC.CAFEINA BIO-ELECTRO c/24 TA.",
+        "categoria": "otros"
+    },
+    "producto2": {
+        "imagen": "imagen",
+        "nombre": "IBUPROFENO 400MG TABS C/24",
+        "categoria": "matcuracion"
+    },
+    "producto3": {
+        "imagen": "imagen",
+        "nombre": "AMOXICILINA 500MG CAPS C/12",
+        "categoria": "derma"
+    },
+    "producto4": {
+        "imagen": "imagen",
+        "nombre": "ATORVASTATINA 20MG TABS C/30",
+        "categoria": "medicina"
+    },
+    "producto5": {
+        "imagen": "imagen",
+        "nombre": "OMEPRAZOL 20MG CAPS C/14",
+        "categoria": "otros"
+    },
+    "producto6": {
+        "imagen": "imagen",
+        "nombre": "LOSARTAN POTASICO 50MG TABS C/30",
+        "categoria": "derma"
+    },
+    "producto7": {
+        "imagen": "imagen",
+        "nombre": "METFORMINA 850MG TABS C/30",
+        "categoria": "medicina"
+    },
+    "producto8": {
+        "imagen": "imagen",
+        "nombre": "CIPROFLOXACINO 500MG TABS C/20",
+        "categoria": "otros"
+    },
+    "producto9": {
+        "imagen": "imagen",
+        "nombre": "DIPIRONA 500MG TABS C/12",
+        "categoria": "matcuracion"
+    },
+    "producto10": {
+        "imagen": "imagen",
+        "nombre": "LEVOTIROXINA SODICA 100MCG TABS C/30",
+        "categoria": "derma"
+    },
+    "producto11": {
+        "imagen": "imagen",
+        "nombre": "AMLODIPINO 5MG TABS C/30",
+        "categoria": "otros"
+    },
+    "producto12": {
+        "imagen": "imagen",
+        "nombre": "RANITIDINA 150MG TABS C/28",
+        "categoria": "medicina"
+    },
+    "producto13": {
+        "imagen": "imagen",
+        "nombre": "LORATADINA 10MG TABS C/10",
+        "categoria": "derma"
+    },
+    "producto14": {
+        "imagen": "imagen",
+        "nombre": "PARACETAMOL 500MG TABS C/24",
+        "categoria": "matcuracion"
+    },
+    "producto15": {
+        "imagen": "imagen",
+        "nombre": "ESOMEPRAZOL 40MG CAPS C/14",
+        "categoria": "otros"
+    },
+    "producto16": {
+        "imagen": "imagen",
+        "nombre": "FENOBARBITAL 100MG TABS C/20",
+        "categoria": "otros"
+    },
+    "producto17": {
+        "imagen": "imagen",
+        "nombre": "GABAPENTINA 300MG CAPS C/30",
+        "categoria": "matcuracion"
+    },
+    "producto18": {
+        "imagen": "imagen",
+        "nombre": "PANTOPRAZOL 40MG TABS C/14",
+        "categoria": "otros"
+    },
+    "producto19": {
+        "imagen": "imagen",
+        "nombre": "VITAMINA C 500MG TABS C/30",
+        "categoria": "medicina"
+    },
+    "producto20": {
+        "imagen": "imagen",
+        "nombre": "VITAMINA D 1000UI TABS C/60",
+        "categoria": "otros"
+    },
+    "producto21": {
+        "imagen": "imagen",
+        "nombre": "SALBUTAMOL 100MCG AEROSOL C/200 DOSIS",
+        "categoria": "matcuracion"
+    },
+    "producto22": {
+        "imagen": "imagen",
+        "nombre": "ASPIRINA 100MG TABS C/100",
+        "categoria": "otros"
+    },
+    "producto23": {
+        "imagen": "imagen",
+        "nombre": "PARACETAMOL 750MG TABS C/20",
+        "categoria": "medicina"
+    },
+    "producto24": {
+        "imagen": "imagen",
+        "nombre": "VITAMINA B12 1000MCG TABS C/30",
+        "categoria": "derma"
+    },
+    "producto25": {
+        "imagen": "imagen",
+        "nombre": "VITAMINA E 400UI CAPS C/100",
+        "categoria": "otros"
+    },
+    "producto26": {
+        "imagen": "imagen",
+        "nombre": "ACEITE DE PESCADO 1000MG CAPS C/60",
+        "categoria": "otros"
+    },
+    "producto27": {
+        "imagen": "imagen",
+        "nombre": "FLUOXETINA 20MG CAPS C/14",
+        "categoria": "matcuracion"
+    },
+    "producto28": {
+        "imagen": "imagen",
+        "nombre": "SIMVASTATINA 20MG TABS C/30",
+        "categoria": "otros"
+    },
+    "producto29": {
+        "imagen": "imagen",
+        "nombre": "ENALAPRIL 10MG TABS C/30",
+        "categoria": "otros"
+    },
+    "producto30": {
+        "imagen": "imagen",
+        "nombre": "CLARITROMICINA 500MG TABS C/14",
+        "categoria": "medicina"
+    },
+    "producto31": {
+        "imagen": "imagen",
+        "nombre": "PREDNISONA 5MG TABS C/20",
+        "categoria": "matcuracion"
+    },
+    "producto32": {
+        "imagen": "imagen",
+        "nombre": "VITAMINA A 5000UI CAPS C/100",
+        "categoria": "otros"
+    },
+    "producto33": {
+        "imagen": "imagen",
+        "nombre": "DEXTROMETORFANO 15MG/5ML JARABE C/120ML",
+        "categoria": "otros"
+    },
+    "producto34": {
+        "imagen": "imagen",
+        "nombre": "LANSOPRAZOL 30MG CAPS C/14",
+        "categoria": "medicina"
+    },
+    "producto35": {
+        "imagen": "imagen",
+        "nombre": "CLOPIDOGREL 75MG TABS C/28",
+        "categoria": "derma"
+    },
+    "producto36": {
+        "imagen": "imagen",
+        "nombre": "KETOROLACO 10MG TABS C/20",
+        "categoria": "otros"
+    },
+    "producto37": {
+        "imagen": "imagen",
+        "nombre": "TRAMADOL 50MG CAPS C/20",
+        "categoria": "matcuracion"
+    },
+    "producto38": {
+        "imagen": "imagen",
+        "nombre": "ACIDO FOLICO 5MG TABS C/50",
+        "categoria": "otros"
+    },
+    "producto39": {
+        "imagen": "imagen",
+        "nombre": "METAMIZOL SODICO 500MG TABS C/10",
+        "categoria": "otros"
+    },
+    "producto40": {
+        "imagen": "imagen",
+        "nombre": "SERTRALINA 50MG TABS C/14",
+        "categoria": "medicina"
+    },
+    "producto41": {
+        "imagen": "imagen",
+        "nombre": "CALCIO 600MG + VITAMINA D3 400UI TABS C/60",
+        "categoria": "derma"
+    },
+    "producto42": {
+        "imagen": "imagen",
+        "nombre": "CICLOSPORINA 100MG CAPS C/30",
+        "categoria": "otros"
+    },
+    "producto43": {
+        "imagen": "imagen",
+        "nombre": "OXICODONA 10MG TABS C/20",
+        "categoria": "matcuracion"
+    },
+    "producto44": {
+        "imagen": "imagen",
+        "nombre": "LEVOMEPROMAZINA 25MG TABS C/20",
+        "categoria": "otros"
+    },
+    "producto45": {
+        "imagen": "imagen",
+        "nombre": "AMANTADINA 100MG CAPS C/20",
+        "categoria": "medicina"
+    },
+    "producto46": {
+        "imagen": "imagen",
+        "nombre": "DOMPERIDONA 10MG TABS C/30",
+        "categoria": "otros"
+    },
+    "producto47": {
+        "imagen": "imagen",
+        "nombre": "CLONAZEPAM 2MG TABS C/30",
+        "categoria": "otros"
+    },
+    "producto48": {
+        "imagen": "imagen",
+        "nombre": "HALOPERIDOL 5MG TABS C/20",
+        "categoria": "medicina"
+    }
+}

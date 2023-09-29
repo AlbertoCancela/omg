@@ -1,0 +1,105 @@
+<?php
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/form.css">
+    <link rel="stylesheet" href="../css/omg.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+    <script src="../js/omgMenu.js"></script>
+</head>
+<body>
+<header class="omg_header">
+        <div class="header_con">
+            <nav class="header_nav">
+                <div class="logo_header">
+                    <img src="../img/Omg_white.png" alt="">
+                </div>
+                <ul class="header_links" id="omgmenu">
+                    <li class="omg_link"><a href=".." class="link">Principal</a></li>
+                    <li class="omg_link"><a href="gallery.php" class="link">Productos</a></li>
+                    <li class="omg_link"><a href="#" class="link">Nosotros</a></li>
+                    <li class="omg_link active"><a href="#" class="link">Contacto</a></li>                    
+                    <li class="omg_link"><a href="#" class="link"><i class='bx bxs-user bx-omg'></i></a></li>                                      
+                </ul>
+                <span class="header_ham" id="btnmenu">&#9776;</span>                               
+            </nav>
+        </div>
+    </header>
+    <div class="main-wrapper">
+        <div class="wrapper section" id="form-contact"> 
+            <form action="" id="formxd">
+                <h2>¡Contáctanos!</h2>
+                <label for="responsable">Responsable</label>
+                    <input type="text" name="responsable" placeholder="nombre">
+                <label for="razon-social">Razón social</label>
+                    <input type="text" name="razon-social" placeholder="razón social">
+                <label for="email">Correo electrónico</label>
+                    <input type="email" name="email" placeholder="correo">
+                <label for="telefono">Teléfono/Móvil</label>
+                    <input type="number" name="telefono" inputmode="none" placeholder="número" class="input-number" >
+                <div class="select-container">
+                    <select name="tipo-persona" id="tipo-persona">
+                        <option value="none" selected="true" disabled>Tipo de persona</option>
+                        <option value="1">FÍSICA</option>
+                        <option value="2">MORAL</option>
+                    </select>
+                    <select name="factura" id="factura">
+                        <option value="none" selected="true" disabled>¿Requiere factura?</option>
+                        <option value="1">SI</option>
+                        <option value="2">NO</option>
+                    </select>
+                </div>
+                <label for="regimen-fiscal">Régimen fiscal</label>
+                <textarea name="regimen-fiscal" id="" placeholder="" cols="10" rows="5"></textarea>
+                <br>
+                <button id="btn-enviar">Enviar</button>
+            </form>
+        </div>
+        <div class="wrapper section" id="location-info">
+            <img id="logo-logo" src="../img/OMG_logo.png" alt="">
+            <img id="logo-name" src="../img/omg_name.png" alt="">
+            <h3>¿Dónde nos encontramos?</h3>
+            <div id="iframe-map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1349.990909910124!2d-99.89662090587785!3d16.858527219813002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ca5988fe187d63%3A0x66b8d137c62144e8!2sOpciones%20M%C3%A9dicas%20de%20Guerrero!5e0!3m2!1ses!2smx!4v1695066870062!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div id="info-extra">
+                <div id="logo">
+                    <img src="../img/OMG_logo.png" alt="" id='logo-info-extra'>
+                </div>
+                <div id="div-social-icons">
+                    <a href="https://www.facebook.com/fragmentoadolescente/?locale=es_LA" class="social-links" target="_blank">
+                        <img src="../img/facebook_icon.png" alt="" id='fb' class="social-icons">
+                    </a>
+                    <a href="https://www.whatsapp.com/?lang=es_LA" class="social-links" target="_blank">
+                        <img src="../img/whatsapp_icon.png" alt="" id='wp' class="social-icons">
+                    </a>
+                    <a href="https://www.instagram.com/" class="social-links" target="_blank">
+                        <img src="../img/instagram_icon.png" alt="" id='ig' class="social-icons">
+                    </a>
+                </div>
+                <div id="div-contactos">
+                    <p><i class='bx bx-phone bx-tada'></i> 7444056849</p>
+                    <p><i class='bx bx-envelope bx-tada' ></i> opcionesmedgro@gmail.com</p>
+                    <p><i class='bx bx-location-plus bx-tada' ></i> 39350 Edificio Manjarrez 102, Andrés de Urdaneta N1, Hornos, 39350 Acapulco de Juárez, Gro. 1°piso</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer_omg">
+        <div class="footer_con">
+            <p class="footer_txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, asperiores. Ab numquam quia velit facere.</p>
+            <span><i class='bx bxl-facebook-circle bx-icon'></i></span>
+            <span><i class='bx bxl-twitter bx-icon'></i></span>
+            <span><i class='bx bxl-instagram-alt bx-icon' ></i></span>
+            <span><i class='bx bxl-whatsapp bx-icon' ></i></span>        
+        </div>
+    </footer>
+</body>
+</html>

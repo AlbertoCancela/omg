@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="../js/gallery.js"></script>
+</head>
+
+<body>
+    <header class="omg_header">
+        <div class="header_con">
+            <nav class="header_nav">
+                <div class="logo_header">
+                    <img src="../img/omg_white.png" alt="">
+                </div>
+                <ul class="header_links" id="omgmenu">
+                    <li class="omg_link"><a href=".." class="link">Principal</a></li>
+                    <li class="omg_link active"><a href="#" class="link">Productos</a></li>
+                    <li class="omg_link"><a href="#" class="link">Nosotros</a></li>
+                    <li class="omg_link"><a href="contactForm.php" class="link">Contacto</a></li>
+                    <li class="omg_link"><a href="#" class="link"><i class='bx bxs-user bx-omg'></i></a></li>
+                </ul>
+                <span class="header_ham" id="btnmenu">&#9776;</span>
+            </nav>
+        </div>
+    </header>
+    <div class="info-banner">
+        <div class="section-banner" id="img-banner">
+            <img src="../img/OMG_logo.png" alt="">
+        </div>
+        <div class="section-banner" id="texto-banner">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae fugit quia distinctio
+                fugiat eaque libero rerum veritatis sequi aperiam expedita omnis necessitatibus debitis alias nulla quam delectus, pariatur eos blanditiis.
+            </p>
+        </div>
+    </div>
+    <div class="main-wrap">
+        <div class="selectores-info_mobile" id="filtrarMobile">
+            <i class='bx bx-menu-alt-right' undefined></i> Filtrar
+        </div>
+        <div class="son_selector-info noneVisible" id="filtro_mobile">
+            <h2>Filtrar por categorías</h2>
+            <p class="filtro-select">Filtro medicamento</p>
+            <p class="filtro-select">Filtro medicamento</p>
+            <p class="filtro-select">Filtro medicamento</p>
+            <p class="filtro-select">Filtro medicamento</p>
+            <p class="filtro-select" id="filtro-select_cancelar">Cancelar</p>
+        </div>
+        <div class="selectores-info">
+            <div class="son_selector-info" id="filtro">
+                <h2>Filtrar por categorías</h2>
+                <p class="filtro-select">Filtro medicamento</p>
+                <p class="filtro-select">Filtro medicamento</p>
+                <p class="filtro-select">Filtro medicamento</p>
+                <p class="filtro-select">Filtro medicamento</p>
+            </div>
+            <div class="son_selector-info" id="info">
+                <p>¡Descarga nuestro catálogo!</p>
+                <button id="btn-descargar">Descargar <i class='bx bxs-download bx-flashing'></i></button>
+            </div>
+        </div>
+        <div class="main-gallery">
+
+        </div>
+    </div>
+    <footer class="footer_omg">
+        <div class="footer_con">
+            <p class="footer_txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, asperiores. Ab numquam quia velit facere.</p>
+            <span><i class='bx bxl-facebook-circle bx-icon'></i></span>
+            <span><i class='bx bxl-twitter bx-icon'></i></span>
+            <span><i class='bx bxl-instagram-alt bx-icon'></i></span>
+            <span><i class='bx bxl-whatsapp bx-icon'></i></span>
+        </div>
+    </footer>
+</body>
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="../css/gallery.css">
+<link rel="stylesheet" href="../css/omg.css">
+<script src="../js/omgMenu.js"></script>
+
+</html>
