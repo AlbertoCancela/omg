@@ -19,7 +19,7 @@
         <div class="header_con">
             <nav class="header_nav">
                 <div class="logo_header">
-                    <img src="../img/Omg_white.png" alt="">
+                    <img src="../img/omg_white.png" alt="">
                 </div>
                 <ul class="header_links" id="omgmenu">
                     <li class="omg_link"><a href=".." class="link">Principal</a></li>
